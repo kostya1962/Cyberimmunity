@@ -70,7 +70,7 @@
 
 
 ### Схема взаимодействия компонентов веб-сайта (до кибериммунизации)
-![изображение] (https://github.com/kostya1962/Cyberimmunity/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.jpg)
+![изображение] (https://raw.githubusercontent.com/kostya1962/Cyberimmunity/refs/heads/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.jpg))
 ### Описание сценариев (последовательности выполнения операций), при которых ЦБ нарушаются
 
 **Сценарий №1**
