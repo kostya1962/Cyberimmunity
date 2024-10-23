@@ -300,7 +300,8 @@
 
 ## Список использованных информационных источников
 
-- [OWASP.ORG](https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html)
+- [OWASP.ORG](https://cheatsheetseries.owasp.org/cheatsheets/Database_Security_Cheat_Sheet.html)
+- [Правила безопасной эксплуатации сервера на PostgreSQL](https://www.postgresql.org/docs/current/runtime.html)
 - [Model-View-Controller](https://ru.wikipedia.org/wiki/Model-View-Controller)
 - [Платёжный шлюз](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D1%8B%D0%B9_%D1%88%D0%BB%D1%8E%D0%B7)
 - [БДУ ФСТЭК](https://bdu.fstec.ru/threat)
