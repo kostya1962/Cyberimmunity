@@ -116,6 +116,7 @@
 ![изображение](https://github.com/kostya1962/Cyberimmunity/blob/main/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.drawio%20(%D0%B4%D0%BE).svg)
 ***
 </br>
+[CWE-79](https://cwe.mitre.org/data/definitions/79.html)
 ### Угрозы безопасности сайта по списку OWASP
 | Угроза  | Описание  | Перечень общих слабостей |
 |----|------|-----|
