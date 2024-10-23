@@ -304,6 +304,7 @@
 - [Model-View-Controller](https://ru.wikipedia.org/wiki/Model-View-Controller)
 - [Платёжный шлюз](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D1%8B%D0%B9_%D1%88%D0%BB%D1%8E%D0%B7)
 - [БДУ ФСТЭК](https://bdu.fstec.ru/threat)
+- [Калькулятор CVSS V2](https://bdu.fstec.ru/calc)
 - [NGINX reverse proxy with ModSecurity WAF](https://github.com/carlosdg/NginxReverseProxyWithModsecurity)
 - [Wapiti Key Features](https://www.kalilinux.in/2021/01/wapiti-tutorial.html)
 - [Обзор OWASP ZAP. Сканер для поиска уязвимостей в веб-приложениях](https://habr.com/ru/companies/first/articles/709586/)
